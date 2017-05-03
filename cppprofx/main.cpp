@@ -9,5 +9,6 @@ void main()
 	LONG_INT li3;
 	li3 = li1 * li2;
 	cout << li1 << endl;
+	cout << li2 << endl;
 	cout << li3 << endl;
 }
