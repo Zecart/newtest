@@ -10,5 +10,6 @@ void main()
 	li3 = li1 * li2;
 	cout << li2 << endl;
 	cout << li3 << endl;
+	cout << li1 << endl;
 	cout << "secondBranch" << endl;
 }
